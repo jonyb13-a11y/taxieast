@@ -2,13 +2,7 @@
 "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=big5">
-<title>TaxiEast</title>
-<style type="text/css">
-<!--
-.style1 {font-family: Arial, Helvetica, sans-serif}
--->
-</style>
+
 </head>
 
 <body>
