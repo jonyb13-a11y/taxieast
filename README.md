@@ -1,7 +1,7 @@
 
 <html>
 <body>
-<h1><span class="style1">Taxi East 一口價專線</span>
+<h1 align="left"><span class="style1">Taxi East 一口價專線</span>
 </div>
 <p><a href="https://jonyb13.wixsite.com/taxi-east/szbay"><img src="https://jonyb13-a11y.github.io/taxieast/SZB%20LINK.jpg" width="123" height="44" border="0"></a><a href="https://jonyb13.wixsite.com/taxi-east/ftport"><img src="https://jonyb13-a11y.github.io/taxieast/FT%20LINK.jpg" width="230" height="44" border="0"></a><a href="https://chat.whatsapp.com/FyBlhLHP01gAzJm9P15WXH"><img src="https://jonyb13-a11y.github.io/taxieast/quotation.jpg" width="156" height="44" border="0"></a></p>
 <p><img src="https://jonyb13-a11y.github.io/taxieast/PL.png" width="100%" height="auto"></p>
