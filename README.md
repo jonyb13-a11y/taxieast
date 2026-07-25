@@ -9,7 +9,7 @@
 <br class="Apple-interchange-newline">
 <p>&nbsp;</p>
 <p align="center" class="style2">Taxi East 一口價專線</p>
-<p align="center" class="style2">Tel: 852 5540 4475 </p>
+<p align="center" class="style2"><a href="https:wa.me +852 55404475" target="_blank">Tel: 852 5540 4475 </a></p>
 <p>&nbsp;</p>
 </body>
 </html>
