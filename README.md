@@ -8,11 +8,8 @@
 <div class="wix-presets-wrapper w-4190f51c-3836-49f6-8114-96219c165b29 comp-mryjlnf9-presets-wrapper" style="vertical-align: baseline; background: 0px 0px; border: 0px; outline: 0px; margin: 0px; padding: 0px; display: contents; --preset-423f9646: z78117e4f; color: rgb(0, 0, 0); font-family: Arial, Helvetica, sans-serif; font-size: 10px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;"></div>
 <br class="Apple-interchange-newline">
 <p>&nbsp;</p>
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="211" height="33">
-  <param name="movie" value="text1.swf">
-  <param name="quality" value="high">
-  <embed src="text1.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="211" height="33" ></embed>
-</object>
+<p align="center" class="style2">Taxi East 一口價專線</p>
+<p align="center" class="style2">Tel: 852 5540 4475 </p>
 <p>&nbsp;</p>
 </body>
 </html>
