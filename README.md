@@ -1,6 +1,4 @@
-
 <html>
-<table width="2200" border="0">
 <body>
 <h1 align="left"><span class="style1">Taxi East 一口價專線</span>
 </h1>
